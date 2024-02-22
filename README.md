@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @csidhant
-- 👀 I’m interested in cyber security 
-- 🌱 I’m currently learning cyber security and machine learning
-- 💞️ I’m looking to work and learn something by any one who help in in learning python from begining
+- 👀 I’m interested in cybersecurity 
+- 🌱 I’m currently learning cyber security and digital forensics 
+- 💞️ I’m looking to work and learn something from any one who helps in in learning Python from begining
 - 📫  contact me on my email sidhatchaurasiya12@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
