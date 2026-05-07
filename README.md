@@ -1,13 +1,26 @@
-- 👋 Hi, I’m @csidhant
-- 👀 I’m interested in cybersecurity 
-- 🌱 I’m currently learning cybersecurity and digital forensics 
-- 💞️ I’m looking to work and learn something from anyone who helps in learning Python from beginning,c++ and related to cyber security and digital forensics 
-- 📫  contact me on my email sidhatchaurasiya12@gmail.com
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm @csidhant
 
-<!---
-csidhant/csidhant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔐 Passionate about Cybersecurity and Digital Forensics  
+
+👀 I’m interested in:
+- Cybersecurity
+- Digital Forensics
+- Ethical Hacking
+- Programming
+
+🌱 Currently learning:
+- Cybersecurity & Digital Forensics
+- Python Programming
+- C++
+
+💞️ I’m looking to collaborate with and learn from people who can help me grow in:
+- Python development
+- C++ programming
+- Cybersecurity
+- Digital Forensics
+
+📫 Reach me at:
+- Email: sidhantchaurasiya12@gmail.com
+
+⚡ Fun Fact:
+I reached the Top 1% on TryHackMe using only free rooms and consistent self-study.
