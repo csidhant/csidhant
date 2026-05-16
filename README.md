@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/csidhant/csidhant/blob/main/ChatGPT%20Image%20May%2016%2C%202026%2C%2009_15_37%20PM.png" width="400" height="400" style="border-radius: 50%; border: 4px solid #1f2937;" alt="Sidhant Kumar Chaurasiya">
+  <img src="https://github.com/csidhant/csidhant/blob/main/ChatGPT%20Image%20May%2016%2C%202026%2C%2009_15_37%20PM.png" width="600" height="400" style="border-radius: 50%; border: 4px solid #1f2937;" alt="Sidhant Kumar Chaurasiya">
   
   <h1>Sidhant Kumar Chaurasiya</h1>
   <h3>Aspiring SOC Analyst & Blue Team Specialist</h3>
